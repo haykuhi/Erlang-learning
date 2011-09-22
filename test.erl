@@ -58,4 +58,4 @@ wohn_gegend_noch_anders({person, _Name, _Age, Location}) ->
   end
   
 log(Element) ->
-  io:format("Log:~p~n", [Element]).
+  io:format("Log: ~p~n", [Element]).
